@@ -2,6 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 ##Introduction
+There are lot of lectures in this training.
+
 ##GIT & Github training
 
 ## Purpose
